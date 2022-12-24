@@ -1,0 +1,21 @@
+{
+  "name": "js-component-design-and-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Clifford Jenkins",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1",
+    "parcel": "^2.8.0"
+  }
+
+}
